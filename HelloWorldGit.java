@@ -5,7 +5,11 @@ class HelloWorld{
       }
 
              public static void main(String[] args){
-          System.out.println("hello world....welcome to git")
+          System.out.println("hello world....welcome to git");
+              helloWorld hello = new HelloWorld();
+               hello.displayDate
+();
+          
  
       }
 }
