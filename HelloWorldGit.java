@@ -1,8 +1,8 @@
 class HelloWorld{
 
-void mymethod()
+void displayDate()
 {
-system.out.println("display date")
+system.out.println("display today's date");
 }
 
 public static void main(String[] args)
